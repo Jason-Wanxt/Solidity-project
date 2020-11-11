@@ -3,6 +3,9 @@
 This project is used for IOT
 
 # Current address
+
+NetWork:Kovan
+
 Area:0x45771b57bEB0fBd06402984a48bd7DAd2b7f147c
 
 Data:0x9f59ab34458300Ebb7d6eA5133caB05C7AD8518D
